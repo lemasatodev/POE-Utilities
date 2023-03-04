@@ -1,9 +1,9 @@
 ﻿/*
 	v1.0.1
-    POE Anti AFK by lemasato
+    POE Anti AFK by lemasatodev
     Standalone script part of POE AHK Utilities
     If you have any question or find an issue, don't hesitate to post on GitHub!
-    https://github.com/lemasato/POE-AHK-Utilities
+    https://github.com/lemasatodev/POE-AHK-Utilities
     
 
 	What does it do?
@@ -179,7 +179,7 @@ Tray_PauseWhileGameActiveToggle:
     Menu,Tray,% PAUSE_SCRIPT_WHILE_GAME_ACTIVE=True?"Check":"Uncheck",Pause while game active?
 return
 Tray_Github:
-    Run,% "https://github.com/lemasato/POE-AHK-Utilities"
+    Run,% "https://github.com/lemasatodev/POE-AHK-Utilities"
 Tray_Help:
     MsgBox,4096,POE Anti AFK,All documentation is included in the source`nOpen the script in a text editor and check it out! :)
 return

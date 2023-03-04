@@ -1,9 +1,9 @@
 /*
 	v1.0.4
-    POE Borderless Enhanced by lemasato
+    POE Borderless Enhanced by lemasatodev
     Standalone script part of POE AHK Utilities
     If you have any question or find an issue, don't hesitate to post on GitHub!
-    https://github.com/lemasato/POE-AHK-Utilities
+    https://github.com/lemasatodev/POE-AHK-Utilities
     
 
     History of this script
@@ -457,7 +457,7 @@ Reload() {
 }
 
 Tray_Github:
-    Run,% "https://github.com/lemasato/POE-AHK-Utilities"
+    Run,% "https://github.com/lemasatodev/POE-AHK-Utilities"
 Tray_Help:
     MsgBox,4096,POE Borderless Enhanced,All documentation is included in the source`nOpen the script in a text editor and check it out! :)
 return
